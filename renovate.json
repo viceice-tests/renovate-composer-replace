@@ -3,7 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "replace",
+  "rangeStrategy": "auto",
   "labels": [
     "renovate",
     "ft-delivery-xp"

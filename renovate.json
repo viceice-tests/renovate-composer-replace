@@ -4,7 +4,12 @@
     "config:base"
   ],
   "rangeStrategy": "auto",
-  "lockFileMaintenance": { "enabled": true },
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": [
+      "at any time"
+    ]
+  },
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
   "labels": [

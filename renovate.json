@@ -4,6 +4,7 @@
     "config:base"
   ],
   "rangeStrategy": "auto",
+  "lockFileMaintenance": { "enabled": true },
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
   "labels": [

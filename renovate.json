@@ -3,13 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "auto",
-  "lockFileMaintenance": {
-    "enabled": true,
-    "schedule": [
-      "at any time"
-    ]
-  },
+  "rangeStrategy": "update-lockfile",
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
   "labels": [

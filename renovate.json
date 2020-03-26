@@ -4,6 +4,8 @@
     "config:base"
   ],
   "rangeStrategy": "auto",
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 0,
   "labels": [
     "renovate",
     "ft-delivery-xp"

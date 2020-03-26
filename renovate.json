@@ -3,7 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "update-lockfile",
+  "rangeStrategy": "replace",
   "labels": [
     "renovate",
     "ft-delivery-xp"

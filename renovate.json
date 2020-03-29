@@ -3,7 +3,7 @@
   "extends": [
     "config:base"
   ],
-  "rangeStrategy": "update-lockfile",
+  "rangeStrategy": "replace",
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
   "labels": [
